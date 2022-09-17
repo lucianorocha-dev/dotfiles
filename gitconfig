@@ -1,0 +1,9 @@
+[user]
+	name = Luciano Rocha
+	email = 52541757+lucianorocha-dev@users.noreply.github.com
+[init]
+	defaultBranch = main
+[color]
+	ui = auto
+[core]
+	editor = code --wait
